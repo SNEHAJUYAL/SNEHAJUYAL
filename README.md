@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SNEHAJUYAL&show_icons=true&theme=default&hide_border=true" height="150"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNEHAJUYAL&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>## Hi there 👋
+</p>##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake.svg"/>
