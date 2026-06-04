@@ -16,7 +16,7 @@
 ### 🔧 What I build
 
 - **[Smart Log Analyzer]([(https://github.com/SNEHAJUYAL/logAnalyzer])** — Parses 500K+ system/network logs, detects anomalies, renders interactive Plotly dashboards. Built for real forensics use at Delhi Police's IFSO unit.
-- **[E-Certify](https://github.com/SNEHAJUYAL/E-Certify)** — Decentralized certificate system on Ethereum. Tamper-proof issuance + on-chain verification via IPFS + Hardhat.
+
 
 ---
 
