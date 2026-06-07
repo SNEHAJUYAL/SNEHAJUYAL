@@ -1,8 +1,8 @@
 <h1 align="center">Heyaaaa, I'm Sneha Juyal 🌻</h1>
 
 <p align="center">
-  <b>3rd Year ECE @ MSIT, GGSIPU · New Delhi</b><br/>
-  Python · React · SQL · Blockchain · AI/ML (learning)
+  <b>4th Year ECE @ MSIT, GGSIPU · New Delhi</b><br/>
+  Python · React · SQL · C++ · AI/ML 
 </p>
 
 <p align="center">
