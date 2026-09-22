@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-*Currently extending this into managed cloud (AWS/Azure) data pipelines — see Growth Roadmap below.*
+*Currently extending this into managed cloud (AWS/Azure) data pipelines.*
 
 ### Programming & Tools
 
