@@ -1,7 +1,9 @@
 <h1 align="center">Sneha Juyal</h1>
 
 <p align="center">
-  <b>Data & Business Analytics</b> · Python · SQL · Excel · Machine Learning · Cloud
+  <a href="https://linkedin.com/in/sneha-juyal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=560&lines=Data+%26+Business+Analytics;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+ML+%C2%B7+Cloud;Turning+raw+data+into+decisions" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -12,6 +14,7 @@
   <a href="mailto:snehajuyal20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/sneha-juyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/CGPA-9.01%2F10-2b2b2b?style=flat-square" alt="CGPA"/>
+  <img src="https://komarev.com/ghpvc/?username=SNEHAJUYAL&style=flat-square&color=2F80ED&label=Profile+views" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -140,9 +143,10 @@ Analyzed patterns across 500K+ digital records via a custom log analyzer to supp
 
 ### GitHub stats
 
+Self-hosted via GitHub Actions (see `.github/workflows/metrics.yml`) instead of the shared public stats widgets, which run into frequent outages — so this stays up.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SNEHAJUYAL&show_icons=true&hide_border=true&count_private=true&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNEHAJUYAL&layout=compact&hide_border=true&theme=default"/>
+  <img src="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-metrics.svg" alt="GitHub metrics"/>
 </p>
 
 <p align="center">
@@ -166,5 +170,5 @@ Analyzed patterns across 500K+ digital records via a custom log analyzer to supp
 </p>
 
 <p align="center">
-  <sub>Built with <a href="https://shields.io">shields.io</a> · <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> · <a href="https://github.com/Platane/snk">platane/snk</a></sub>
+  <sub>Built with <a href="https://shields.io">shields.io</a> · <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> · <a href="https://github.com/Platane/snk">platane/snk</a> · <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev</a></sub>
 </p>
