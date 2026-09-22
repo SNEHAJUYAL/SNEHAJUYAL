@@ -1,60 +1,170 @@
-<h1 align="center">Heyaaaa, I'm Sneha Juyal 🌻</h1>
+<h1 align="center">Sneha Juyal</h1>
 
 <p align="center">
-  <b>4th Year ECE @ MSIT, GGSIPU · New Delhi</b><br/>
-  Python · React · SQL · C++ · AI/ML 
+  <b>Data & Business Analytics</b> · Python · SQL · Excel · Machine Learning · Cloud
 </p>
 
 <p align="center">
-  <a href="mailto:snehajuyal20@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/snehajuyal">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <b>9.0 CGPA</b>
+  <i>ECE (AI/ML Minor) @ MSIT, GGSIPU · New Delhi</i>
 </p>
 
----
-
-### 🔧 What I build
-
-- **[Smart Log Analyzer]([(https://github.com/SNEHAJUYAL/logAnalyzer])** — Parses 500K+ system/network logs, detects anomalies, renders interactive Plotly dashboards. Built for real forensics use at Delhi Police's IFSO unit.
-
-
----
-
-### 📚 Currently learning
-`Scikit-learn` · `Pandas` · `SQL (advanced)` · `ML pipelines` · `Data Analytics`
-
----
-
-### 🏆 Highlights
-- 🔬 Published researcher — NCI TIDE 2025 (encrypted social media forensics)
-- 🛡️ Intern — IFSO NCFL, Delhi Police (cybercrime investigations)
-- 🎯 Chief Organizer — HackAVENSIS (1,253+ registrations)
-- 📡 VP — IIC MSIT · VP — IEEE MSIT · Treasurer — IEEE WIE
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
+<p align="center">
+  <a href="mailto:snehajuyal20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sneha-juyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/CGPA-9.01%2F10-2b2b2b?style=flat-square" alt="CGPA"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNEHAJUYAL&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNEHAJUYAL&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake.svg"/>
-</picture>
-<!--
-**SNEHAJUYAL/SNEHAJUYAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I work at the intersection of <b>data, analysis, and business decision-making</b> — turning raw datasets into
+  clean pipelines, SQL-driven insight, and dashboards stakeholders can act on. Recent work spans healthcare
+  analytics, fraud-risk modeling, and business requirement analysis for a live nutrition-monitoring platform.
+</p>
 
+<br/>
 
+### Currently
+
+- 📊 Building end-to-end analytics pipelines — cleaning → SQL modeling → dashboarding → business recommendations
+- 🧮 Deepening advanced SQL (window functions, CTEs) and cloud-based data workflows
+- 💼 Business Analyst Intern, translating stakeholder requirements into BRDs/FRDs and validating data through UAT
+
+<br/>
+
+### Analytics & Data — primary focus
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+**Machine Learning:** Scikit-learn, XGBoost, EDA, feature engineering, classification/regression, model evaluation
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=flat-square"/>
+</p>
+
+### Databases & Cloud — secondary focus
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+*Currently extending this into managed cloud (AWS/Azure) data pipelines — see Growth Roadmap below.*
+
+### Programming & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-primary-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-secondary-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<br/>
+
+### Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Healthcare Intelligence Platform](https://github.com/SNEHAJUYAL/Healthcare-Intelligence-Platform)**
+End-to-end analytics pipeline on 55,500 patient records → star-schema model (21 features, 8 modules) →
+tuned Random Forest classifier (43.2% test accuracy vs. 33.3% baseline, statistically validated) →
+executive dashboard + business recommendations. Includes an honest benchmark against real CDC/KFF/AHRQ statistics.
+`Python` `SQL` `Scikit-learn` `Tableau` `ETL`
+
+</td>
+<td width="50%" valign="top">
+
+**[Sales Analytics](https://github.com/SNEHAJUYAL/Sales)**
+SQL-driven sales analysis with RFM segmentation and cohort analysis, visualized in a Tableau workbook.
+Covers data cleaning, exploratory analysis, and SQL exports feeding the dashboard.
+`SQL` `Python` `Tableau` `RFM/Cohort Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[AQI Intelligence Dashboard](https://github.com/SNEHAJUYAL/AQI-index-)**
+Air-quality analytics dashboard over Delhi AQI data (2025–26) with an ML forecast model, category trends,
+and decision-support guidance for health-sensitive users.
+`Python` `Machine Learning` `Dashboarding`
+
+</td>
+<td width="50%" valign="top">
+
+**[PlantCare AI](https://github.com/SNEHAJUYAL/PlantCare-AI-Advanced-Plant-Disease-Detection-Using-Transfer-Learning)**
+Transfer-learning image classifier (MobileNetV2) across 87,000+ leaf images and 38 disease classes.
+`Python` `TensorFlow/Keras` `Transfer Learning`
+
+</td>
+</tr>
+</table>
+
+**Also on my resume, not yet public:** Credit Card Fraud Detection (Random Forest, 100% recall / 99.97% precision on 568,630 transactions, Kaggle MLG-ULB) and a forensic log analyzer built during my Delhi Police IFSO internship (500K+ records). Publishing both is next on my list.
+
+<br/>
+
+### Experience
+
+**Business Analyst Intern** — Crazibrain Solutions Pvt. Ltd. · *Jul 2026 – Present*
+Documented BRDs/FRDs and user stories for a nutrition-monitoring platform (beneficiary registration, attendance, monitoring); ran functional/system/UAT testing across app, APIs and admin portal; validated dashboard KPIs via data reconciliation.
+
+**Software Development & Data Analysis Intern** — IFSO, Delhi Police (NCFL) · *May 2025 – Jul 2025*
+Analyzed patterns across 500K+ digital records via a custom log analyzer to support investigators; built a Python tool to parse large blockchain `.dat` files into structured tables; evaluated Claude, Gemini, and Kiro against ChatGPT for investigative use cases.
+
+<br/>
+
+### Leadership & recognition
+
+- **Co-Head, Placement Coordinator**, MSIT T&P Cell — coordinated placement operations for 350–400+ students
+- **Chief Organiser**, AVENSIS / HackAVENSIS — 24-hr national hackathon, 1,253+ registrations, 45 finalist teams
+- **Vice President**, IEEE MSIT — coordinates 4 affinity chapters, 200+ members
+- **Treasurer**, IEEE WIE MSIT — chapter finances & STAR programme; IEEE Delhi Section Student Volunteer Award 2025
+- **Advisor** (prev. VP), IIC MSIT — leads SIH/YUKTI participation
+- **Finalist**, Microsoft TechJam · **Published**, NCI TIDE 2025 — social media forensic extraction, 2,000+ participants
+- **Finalist**, HackSmart — built SachAI, an AI hallucination checker, with BatterySmart
+
+<br/>
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SNEHAJUYAL&show_icons=true&hide_border=true&count_private=true&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNEHAJUYAL&layout=compact&hide_border=true&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SNEHAJUYAL&hide_border=true&theme=default" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<br/>
+
+### Connect
+
+<p align="center">
+  <a href="mailto:snehajuyal20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sneha-juyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <sub>Built with <a href="https://shields.io">shields.io</a> · <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> · <a href="https://github.com/Platane/snk">platane/snk</a></sub>
+</p>
