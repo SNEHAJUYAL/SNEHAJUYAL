@@ -37,7 +37,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Healthcare Intelligence Platform](https://github.com/SNEHAJUYAL/Healthcare-Intelligence-Platform)**
+**[Healthcare Intelligence Platform](https://github.com/SNEHAJUYAL/Healthcare-Intelligence-Platform)**<br/>
 End-to-end analytics on 55,500 patient records, cleaned to 54,860, modelled as a star schema with 21 engineered
 features. A tuned Random Forest reaches 43.2% test accuracy against a 33.3% baseline, and the repo benchmarks the
 synthetic data against real CDC/KFF statistics instead of overselling it.
@@ -46,7 +46,7 @@ synthetic data against real CDC/KFF statistics instead of overselling it.
 </td>
 <td width="50%" valign="top">
 
-**[Sales Analytics](https://github.com/SNEHAJUYAL/Sales)**
+**[Sales Analytics](https://github.com/SNEHAJUYAL/Sales)**<br/>
 SQL-driven sales analysis with RFM segmentation and cohort analysis, cleaned and explored in notebooks and
 visualised in a Tableau workbook.
 <br/><img src="https://img.shields.io/badge/SQL-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Tableau-30363D?style=flat-square"/>
@@ -56,7 +56,7 @@ visualised in a Tableau workbook.
 <tr>
 <td width="50%" valign="top">
 
-**[AQI Intelligence Dashboard](https://github.com/SNEHAJUYAL/AQI-index-)**
+**[AQI Intelligence Dashboard](https://github.com/SNEHAJUYAL/AQI-index-)**<br/>
 Dashboard over Delhi daily and hourly AQI data (2025–26) with trend, heatmap and day/night views, plus a Python
 forecasting model whose output feeds the near-term forecast chart.
 <br/><img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Forecasting-30363D?style=flat-square"/>
@@ -64,7 +64,7 @@ forecasting model whose output feeds the near-term forecast chart.
 </td>
 <td width="50%" valign="top">
 
-**[NorthStar Retail Platform](https://github.com/SNEHAJUYAL/Centific_Northstarplatform)**
+**[NorthStar Retail Platform](https://github.com/SNEHAJUYAL/Centific_Northstarplatform)**<br/>
 Microservices backend for a 140-store retail chain: POS, inventory and an offline-tolerant store gateway, with
 role-based access and JWT auth. Built with FastAPI and PostgreSQL, with Docker Compose.
 <br/><img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square"/>
@@ -74,14 +74,14 @@ role-based access and JWT auth. Built with FastAPI and PostgreSQL, with Docker C
 <tr>
 <td width="50%" valign="top">
 
-**[PlantCare AI](https://github.com/SNEHAJUYAL/PlantCare-AI-Advanced-Plant-Disease-Detection-Using-Transfer-Learning)**
+**[PlantCare AI](https://github.com/SNEHAJUYAL/PlantCare-AI-Advanced-Plant-Disease-Detection-Using-Transfer-Learning)**<br/>
 MobileNetV2 transfer-learning classifier across 87,000+ leaf images and 38 plant-disease classes.
 <br/><img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Deep_Learning-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Transfer_Learning-30363D?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-**Next to publish**
+**Next to publish**<br/>
 Credit-card fraud detection: five models benchmarked on 568,630 transactions, Random Forest best at 100% recall and
 99.97% precision on the balanced set. Forensic log analyzer built at IFSO over 500K+ records.
 
