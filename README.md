@@ -1,89 +1,94 @@
-<h1 align="center">Sneha Juyal</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=2F80ED&center=true&vCenter=true&width=620&lines=Engineering+student+%C2%B7+Data%2C+ML+%26+Software;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Backend+%C2%B7+Cloud;Open+to+internships+and+full-time+roles" alt="Engineering student, data, ML and software. Open to internships and full-time roles."/>
+  <img src="assets/banner.svg" alt="Sneha Juyal: data, analysis, decisions. Final-year ECE at MSIT, open to roles." width="100%"/>
 </p>
 
 <p align="center">
-  <a href="mailto:snehajuyal20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/sneha-juyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/B.Tech_ECE_(AI%2FML_Minor)-MSIT%2C_GGSIPU-2b2b2b?style=flat-square" alt="B.Tech ECE, AI/ML minor, MSIT GGSIPU"/>
-  <img src="https://img.shields.io/badge/CGPA-9.01%2F10-2b2b2b?style=flat-square" alt="CGPA 9.01/10"/>
+  <a href="mailto:snehajuyal20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sneha-juyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/CGPA-9.01%2F10-0b1220?style=for-the-badge" alt="CGPA 9.01 out of 10"/>
 </p>
 
-<p align="center">
-  Final-year ECE student in Delhi who builds across the stack: data pipelines and analysis, machine-learning models,
-  and backend services. I have worked as a Business Analyst intern and as a software and data-analysis intern with
-  Delhi Police's IFSO unit, so I'm comfortable moving between the code, the data and the stakeholders.
-</p>
+```python
+class Sneha:
+    studying = "B.Tech ECE (AI/ML minor) · MSIT, GGSIPU, Delhi"
+    toolkit  = ["Python", "SQL", "Excel", "scikit-learn", "FastAPI", "Docker"]
+    interned = ["Business Analyst @ Crazibrain Solutions",
+                "Software & data analysis @ IFSO, Delhi Police"]
+    open_to  = ["Software", "Data", "ML / AI", "Business & product analysis"]
+
+    def next_up(self):
+        return "publish the fraud-detection and log-analyzer repos"
+```
+
+<br/>
+
+### How I work
 
 <p align="center">
-  <b>Open to:</b> Software Engineer · Data Analyst · Business / Product Analyst · ML / AI Engineer · Data Engineer
+  <img src="assets/pipeline.svg" alt="Pipeline: ingest, clean, model, serve, decide" width="100%"/>
 </p>
 
 <br/>
 
-### Currently
-
-- Business Analyst Intern at Crazibrain Solutions: BRDs/FRDs, user stories, UAT and KPI validation for a nutrition-monitoring platform
-- Packaging two resume projects (credit-card fraud detection, forensic log analyzer) for GitHub
-- Learning advanced SQL (window functions, CTEs) and managed cloud data workflows on AWS/Azure
-
-<br/>
-
-### Featured projects
+### Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/cards/healthcare.svg" alt="Star schema, 54,860 cleaned records, 43.2% test accuracy" width="100%"/>
+
 **[Healthcare Intelligence Platform](https://github.com/SNEHAJUYAL/Healthcare-Intelligence-Platform)**<br/>
-End-to-end analytics on 55,500 patient records, cleaned to 54,860, modelled as a star schema with 21 engineered
-features. A tuned Random Forest reaches 43.2% test accuracy against a 33.3% baseline, and the repo benchmarks the
-synthetic data against real CDC/KFF statistics instead of overselling it.
-<br/><img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/ETL-30363D?style=flat-square"/>
+End-to-end analytics on 55,500 patient records: cleaning, 21 engineered features, a star schema and a tuned
+Random Forest. It also benchmarks the synthetic data against real CDC/KFF figures instead of overselling it.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/cards/sales.svg" alt="Cohort triangle and RFM segmentation" width="100%"/>
 
 **[Sales Analytics](https://github.com/SNEHAJUYAL/Sales)**<br/>
-SQL-driven sales analysis with RFM segmentation and cohort analysis, cleaned and explored in notebooks and
-visualised in a Tableau workbook.
-<br/><img src="https://img.shields.io/badge/SQL-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Tableau-30363D?style=flat-square"/>
+SQL-driven sales analysis with RFM segmentation and cohort retention, explored in notebooks and visualised in a
+Tableau workbook.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img src="assets/cards/aqi.svg" alt="AQI gauge for Delhi 2025 to 2026" width="100%"/>
 
 **[AQI Intelligence Dashboard](https://github.com/SNEHAJUYAL/AQI-index-)**<br/>
-Dashboard over Delhi daily and hourly AQI data (2025–26) with trend, heatmap and day/night views, plus a Python
-forecasting model whose output feeds the near-term forecast chart.
-<br/><img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Forecasting-30363D?style=flat-square"/>
+Dashboard over Delhi daily and hourly AQI (2025–26): trends, heatmap, day versus night, plus a Python forecasting
+model that feeds the near-term forecast chart.
 
 </td>
 <td width="50%" valign="top">
 
+<img src="assets/cards/northstar.svg" alt="Store gateway, POS and inventory services, Postgres" width="100%"/>
+
 **[NorthStar Retail Platform](https://github.com/SNEHAJUYAL/Centific_Northstarplatform)**<br/>
-Microservices backend for a 140-store retail chain: POS, inventory and an offline-tolerant store gateway, with
-role-based access and JWT auth. Built with FastAPI and PostgreSQL, with Docker Compose.
-<br/><img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square"/>
+Microservices backend for a 140-store chain: POS, inventory and an offline-tolerant store gateway, with
+role-based access and JWT auth. FastAPI, PostgreSQL and Docker Compose.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img src="assets/cards/plantcare.svg" alt="38 plant disease classes, MobileNetV2" width="100%"/>
 
 **[PlantCare AI](https://github.com/SNEHAJUYAL/PlantCare-AI-Advanced-Plant-Disease-Detection-Using-Transfer-Learning)**<br/>
 MobileNetV2 transfer-learning classifier across 87,000+ leaf images and 38 plant-disease classes.
-<br/><img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Deep_Learning-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Transfer_Learning-30363D?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
+<img src="assets/cards/next.svg" alt="Coming to GitHub: fraud detection and log analyzer" width="100%"/>
+
 **Next to publish**<br/>
-Credit-card fraud detection: five models benchmarked on 568,630 transactions, Random Forest best at 100% recall and
-99.97% precision on the balanced set. Forensic log analyzer built at IFSO over 500K+ records.
+Credit-card fraud detection (five models on 568,630 transactions; Random Forest led at 100% recall, 99.97%
+precision on the balanced set) and a forensic log analyzer built at IFSO over 500K+ records.
 
 </td>
 </tr>
@@ -91,30 +96,30 @@ Credit-card fraud detection: five models benchmarked on 568,630 transactions, Ra
 
 <br/>
 
-### Skills
+### Toolkit
 
 | Area | Tools | Used for |
 |---|---|---|
 | Data and analytics | Python, SQL, Excel, Pandas, NumPy, Tableau, Matplotlib, Seaborn | Cleaning, EDA, KPI reconciliation, dashboards |
-| Machine learning | Scikit-learn, XGBoost | Feature engineering, model comparison, evaluation |
+| Machine learning | scikit-learn, XGBoost | Feature engineering, model comparison, evaluation |
 | Software and backend | Python, FastAPI, PostgreSQL, Docker, Git, C++ | REST services, auth, containerised services |
 | Cloud | AWS, Azure | Currently learning managed storage and data pipelines |
 
 <br/>
 
-### Experience
+### Where I've worked
 
-**Business Analyst Intern**, Crazibrain Solutions Pvt. Ltd. · *Jul 2026 – Present*
-Documented BRDs/FRDs and user stories for a nutrition-monitoring platform (registration, attendance, monitoring);
-ran functional, system and UAT testing across the app, APIs and admin portal; validated dashboard KPIs through data reconciliation.
+**Business Analyst Intern**, Crazibrain Solutions Pvt. Ltd. · *Jul 2026 – Present*<br/>
+Wrote BRDs/FRDs and user stories for a nutrition-monitoring platform (registration, attendance, monitoring); ran
+functional, system and UAT testing across the app, APIs and admin portal; validated dashboard KPIs through data reconciliation.
 
-**Software Development & Data Analysis Intern**, IFSO, Delhi Police (NCFL) · *May 2025 – Jul 2025*
+**Software Development & Data Analysis Intern**, IFSO, Delhi Police (NCFL) · *May 2025 – Jul 2025*<br/>
 Analysed patterns across 500K+ digital records with a custom log analyzer; built a Python tool that parses large
 blockchain `.dat` files into structured tables; compared Claude, Gemini and Kiro against ChatGPT for investigative use cases.
 
 <br/>
 
-### Leadership and recognition
+### Leading things
 
 - **Co-Head, Placement Coordinator**, MSIT Training & Placement Cell: placement operations for 350–400+ students
 - **Chief Organiser**, AVENSIS / HackAVENSIS: 24-hour national hackathon, 1,253+ registrations, 45 finalist teams
@@ -126,19 +131,29 @@ blockchain `.dat` files into structured tables; compared Claude, Gemini and Kiro
 
 <br/>
 
-### GitHub activity
+### Activity
 
 <p align="center">
-  <img src="assets/github-activity.svg" alt="GitHub activity summary"/>
+  <img src="assets/github-activity.svg" alt="GitHub activity summary" width="100%"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
+    <img alt="3D contribution calendar" src="profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+  </picture>
+</p>
+
+<details>
+<summary>Contribution snake</summary>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake-dark.svg"/>
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/SNEHAJUYAL/SNEHAJUYAL/output/github-snake.svg"/>
   </picture>
 </p>
+</details>
 
 <p align="center">
-  <sub>Stats card generated by <code>scripts/update_stats.py</code> via GitHub Actions · <a href="https://shields.io">shields.io</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> · <a href="https://github.com/Platane/snk">platane/snk</a></sub>
+  <sub>Banner, pipeline and project art are hand-built SVGs · stats and 3D calendar are regenerated by GitHub Actions · <a href="https://shields.io">shields.io</a> · <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> · <a href="https://github.com/Platane/snk">platane/snk</a></sub>
 </p>
