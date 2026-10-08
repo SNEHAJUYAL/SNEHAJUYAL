@@ -42,12 +42,12 @@ class Sneha:
 ### Things I've built
 
 <p align="center">
-  <a href="https://github.com/SNEHAJUYAL/Healthcare-Intelligence-Platform"><img src="assets/cards/healthcare.svg?v=2" alt="Healthcare Intelligence Platform: star schema, 54,860 cleaned records, 43.2% test accuracy" width="400"/></a>
-  <a href="https://github.com/SNEHAJUYAL/Sales"><img src="assets/cards/sales.svg?v=2" alt="Sales Analytics: SQL cohorts and RFM segmentation" width="400"/></a>
-  <a href="https://github.com/SNEHAJUYAL/AQI-index-"><img src="assets/cards/aqi.svg?v=2" alt="AQI Intelligence Dashboard: Delhi 2025 to 2026 with a forecast model" width="400"/></a>
-  <a href="https://github.com/SNEHAJUYAL/Centific_Northstarplatform"><img src="assets/cards/northstar.svg?v=2" alt="NorthStar Retail Platform: FastAPI microservices for 140 stores" width="400"/></a>
-  <a href="https://github.com/SNEHAJUYAL/PlantCare-AI-Advanced-Plant-Disease-Detection-Using-Transfer-Learning"><img src="assets/cards/plantcare.svg?v=2" alt="PlantCare AI: MobileNetV2 across 38 plant-disease classes" width="400"/></a>
-  <img src="assets/cards/next.svg?v=2" alt="Next to publish: fraud detection and a forensic log analyzer" width="400"/>
+  <a href="https://github.com/SNEHAJUYAL/Healthcare-Intelligence-Platform"><img src="assets/projects/healthcare.svg" alt="Healthcare Intelligence Platform: star schema, 54,860 cleaned records, 43.2% test accuracy" width="400"/></a>
+  <a href="https://github.com/SNEHAJUYAL/Sales"><img src="assets/projects/sales.svg" alt="Sales Analytics: SQL cohorts and RFM segmentation" width="400"/></a>
+  <a href="https://github.com/SNEHAJUYAL/AQI-index-"><img src="assets/projects/aqi.svg" alt="AQI Intelligence Dashboard: Delhi 2025 to 2026 with a forecast model" width="400"/></a>
+  <a href="https://github.com/SNEHAJUYAL/Centific_Northstarplatform"><img src="assets/projects/northstar.svg" alt="NorthStar Retail Platform: FastAPI microservices for 140 stores" width="400"/></a>
+  <a href="https://github.com/SNEHAJUYAL/PlantCare-AI-Advanced-Plant-Disease-Detection-Using-Transfer-Learning"><img src="assets/projects/plantcare.svg" alt="PlantCare AI: MobileNetV2 across 38 plant-disease classes" width="400"/></a>
+  <img src="assets/projects/next.svg" alt="Next to publish: fraud detection and a forensic log analyzer" width="400"/>
 </p>
 
 <br/>
